@@ -19,8 +19,8 @@ I am a PMP certified Project Manager currently transitioning into the web develo
  - Stand-alone: C, C++ (Novice++)
  - TODO: Java (Newbie)
 
-[freeCodeCamp 300hr Web-Dev Certification](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
-#Add PMP Badge here
+🚀 [freeCodeCamp 300hr Web-Dev Certification](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
+Add PMP Badge here
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misterlewis07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <br>
 
