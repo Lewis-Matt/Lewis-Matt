@@ -21,7 +21,8 @@ I am a PMP certified Project Manager currently transitioning into the software d
 
 🚀 [freeCodeCamp 300hr Web-Dev Certification](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
 Add PMP Badge here
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1774a52a-76f5-4a2f-8a68-61590c315bb8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![PMP Badge](https://www.credly.com/badges/1774a52a-76f5-4a2f-8a68-61590c315bb8/public_url)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misterlewis07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=misterlewis07)
