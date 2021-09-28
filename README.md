@@ -19,11 +19,12 @@ I am a PMP certified Project Manager currently transitioning into the software d
  - Stand-alone: C, C++ (Novice++)
  - TODO: Java (Newbie)
 
-🚀 [freeCodeCamp 300hr Web-Dev Certification](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
-Add PMP Badge here
-![PMP Badge](https://www.credly.com/badges/1774a52a-76f5-4a2f-8a68-61590c315bb8/public_url)
+### Certificates
+🚀 [300hr Web-Dev Certification](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
+🚀 [300hr Javascript Certification - WIP](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=misterlewis07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <br>
+![PMP](https://user-images.githubusercontent.com/29003130/135118588-8ee4ad5d-2419-4324-8bcc-85fe1ac2653d.png)
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=misterlewis07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <br><br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=misterlewis07)
 
