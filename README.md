@@ -27,10 +27,10 @@ I am a PMP certified Project Manager currently transitioning into software devel
 <hr>
 <br>
 <p float="left">
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewis-Matt&layout=compact&langs_count=8(https://github.com/anuraghazra/github-readme-stats" />
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api?username=Lewis-Matt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewis-Matt&layout=compact&langs_count=8(https://github.com/anuraghazra/github-readme-stats" />
+<img height="140em" align="right" src="https://github-readme-stats.vercel.app/api?username=Lewis-Matt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
-<br><br><br><br><br><br><br><hr>
+<br><br><br><br><br><br><hr>
 <p align="center">
 <img height="20em" align="center" src="https://komarev.com/ghpvc/?username=Lewis-Matt" />
 </p>
