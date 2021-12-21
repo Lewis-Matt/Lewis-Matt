@@ -1,7 +1,7 @@
 ## <p align=center>👋 Hello, I am Matt </p>
 ### <p align=center>Dedicated to continued personal and professional development</p>
 
-I am a PMP certified Project Manager currently transitioning into software development. I am attending an in-person, full-time 5 month web-development bootcamp at CodeUp in San Antonio, TX until May 2022. Additionally, I have ~800 hrs of coding coursework via the University of Wisconsin, Harvard's CS50, and freeCodeCamp. Visit me on [linkedin](https://www.linkedin.com/in/Lewis-Matt/) for more info. <br>
+I am a PMP certified Project Manager currently transitioning into software development. As a former Navy Special Operations Veteran, I thrive in fast-paced, dynamic team enviornments. I am attending an in-person, full-time five month web development bootcamp at CodeUp in San Antonio, TX until May 2022. Additionally, I have ~800 hrs of coding coursework via the University of Wisconsin, Harvard's CS50, and freeCodeCamp. Visit me on [linkedin](https://www.linkedin.com/in/Lewis-Matt/) for more info. <br>
 
 ## <p align=center>⚡Currently working on JavaScript Algorithms and Data Structures⚡ </p><br>
 
