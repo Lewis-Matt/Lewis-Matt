@@ -3,7 +3,7 @@
 <h1>👋 Hello, I am Matt</h1>
 <h6>Dedicated to continued personal and professional development</h6>
 
-I am a PMP certified Project Manager currently transitioning into software development. As a former Navy Special Operations Veteran, I thrive in fast-paced, dynamic team enviornments. I am attending an in-person, full-time five month web development bootcamp at CodeUp in San Antonio, TX until May 2022. Additionally, I have ~800 hrs of coding coursework via the University of Wisconsin, Harvard's CS50, and freeCodeCamp. <hr>
+I am a PMP certified Project Manager currently transitioning into software development. As a former Navy Special Operations Veteran, I thrive in fast-paced, dynamic team enviornments. I am currently attending a full-time, five month web development bootcamp at CodeUp in San Antonio, TX until May 2022. Additionally, I have ~800 hrs of coding coursework via the University of Wisconsin, Harvard's CS50, and freeCodeCamp. <hr>
 <h3>About Me:</h3>
  - Former Navy EOD  💣 <br>
  - Traveler  ✈️ <br>
