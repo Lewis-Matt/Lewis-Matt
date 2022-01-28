@@ -17,7 +17,7 @@ Visit me on:<br>
 <a href="http://www.linkedin.com/in/Lewis-Matt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
 <hr>
  
-<h3>⚡ Currently learning jQuery and Bootstrap ⚡</h3>
+<h3>⚡ Currently learning... everything ⚡</h3>
  
 <h3>🚀 Certificates 🚀</h3>
  
