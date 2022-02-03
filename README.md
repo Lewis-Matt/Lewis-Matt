@@ -14,10 +14,11 @@ I am a PMP certified Project Manager who recently transitioned into software dev
  - Dos gatos  🐈‍⬛<br><br>
 
 Visit me on:<br>
-<a href="http://www.linkedin.com/in/Lewis-Matt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+<a href="http://www.linkedin.com/in/Lewis-Matt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <br>
+or reach out via <a href="mailto:matthew.d.lewis64@gmail.com">email</a>
+<br>
 <hr>
- 
-<h3>⚡ Currently learning... everything ⚡</h3>
  
 <h3>🚀 Certificates 🚀</h3>
  
