@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>👋 Hello, I am Matt</h1>
-<h6>Dedicated to continued personal and professional development</h6>
+<h1>Hello, I'm Matt.</h1>
+<h3>I am a creative problem-solver, team-builder, and lifelong learner ready to take on the next challenge.</h3>
 
-I am a PMP certified Project Manager who recently transitioned into software development. As a former Navy Special Operations Veteran, I thrive in fast-paced, dynamic team environments. I am a creative problem-solver, team-builder, and lifelong learner ready to take on the next challenge. <hr>
+I am a PMP certified Project Manager who recently transitioned into software development. As a former Special Operations Veteran, I thrive in fast-paced, dynamic team environments.  Throughout my time in the military, and as a contract PM for the government, I have had a lot of exposure to manned and unmanned robotics (land and maritime - UUVs, AUVs, remote) and would love to apply my technical knowledge and experience by joining a team developing software that improves the quality of life, safety, and efficiency of the end-users. I am also interested in all things pertaining to the IoT and GIS. <hr>
 <h3>About Me:</h3>
  - Former Navy EOD  💣 <br>
  - Traveler  ✈️ <br>
