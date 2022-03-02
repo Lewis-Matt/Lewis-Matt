@@ -22,7 +22,7 @@ or reach out via <a href="mailto:matthew.d.lewis64@gmail.com">email</a>
  
 <h3>🚀 Certificates 🚀</h3>
  
-<img height="100em" src="https://user-images.githubusercontent.com/29003130/135118588-8ee4ad5d-2419-4324-8bcc-85fe1ac2653d.png"/> <br>
+<a href="https://www.pmi.org/certifications/project-management-pmp"><img height="100em" src="https://user-images.githubusercontent.com/29003130/135118588-8ee4ad5d-2419-4324-8bcc-85fe1ac2653d.png"/></a> <br>
 [300hr Web-Dev Certification](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
 [300hr Javascript Certification - WIP](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
 <br>
