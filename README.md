@@ -29,7 +29,7 @@ or reach out via <a href="mailto:matthew.d.lewis64@gmail.com">email</a>
  
 <hr>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewis-Matt&layout=compact&theme=github_dark&langs_count=9" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/?username=Lewis-Matt&count_private=true&theme=github_dark&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/?username=Lewis-Matt&count_private=true&theme=github_dark" />
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lewis-Matt&theme=highcontrast" alt="Lewis-Matt">
 <br><hr>
 
