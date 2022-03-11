@@ -1,8 +1,9 @@
 <div align="center">
 
 <h1>Hello, I'm Matt.</h1>
-<h3>Creative problem-solver, team-builder, and lifelong learner ready to take on the next challenge.</h3>
-
+<h3>
+“Imagination will often carry us to worlds that never were, but without it we go nowhere.” - Carl Sagan
+</h3>
 I am a PMP certified Project Manager who recently transitioned into software development. As a former Special Operations Veteran, I thrive in fast-paced, dynamic team environments.  I would love to apply my technical knowledge and experience by joining a team developing software that improves the quality of life, safety, and efficiency of the end-users. I am interested in backend development, ideally pertaining to the IoT💡, GIS🗾, mobile📱, and anything that flies🚀! <hr>
 <h3>About Me:</h3>
  - Former Navy EOD  💣 <br>
