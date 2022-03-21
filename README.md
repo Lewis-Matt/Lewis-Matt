@@ -3,18 +3,19 @@
 <h1>Hello, I'm Matt.</h1>
 <h3>“Imagination will often carry us to worlds that never were, but without it we go nowhere.”</h3>- Carl Sagan
  <hr>
-I am a PMP certified Project Manager and Special Operations Veteran who recently transitioned into software development. The <em>internet connects the world</em>, and I have a strong interest in developing and integrating the backend logic for dynamic, scalable web-based applications. 
+I am a PMP certified Project Manager and Special Operations Veteran who recently transitioned into software development.
+As a tech enthusiast, I am very interested in software that integrates hardware with the internet, specifically pertaining to the IoT 💡, GIS 🗾, and Mobile 📱. 
 <br><br>
-As a tech enthusiast, I am very interested in software that integrates hardware with the internet, specifically pertaining to the IoT 💡, GIS 🗾, and Mobile 📱. I also am a hobbyist game-dev (C# + Unity) and interested in all tech-related aviation projects (drones, paramotors, skydiving, navigation)! <hr>
+I also have the ambition of a hobbyist when it comes to Game-Dev (Unity, Blender, C#), aviation-related projects (drones, paramotors, navigation software), and creating with 3D printing and CNC.  When I am not making things with software or wires, I can be found in the garage making things out of wood or leather.
 <h3>About Me:</h3>
  - Former Navy EOD  💣 <br>
  - Traveler  ✈️ <br>
  - Hiker  🥾<br>
  - Skydiver  🪂<br>
  - Diver  🤿<br>
- - Gamer  🕹<br>
- - Dos gatos  🐈‍⬛<br><br>
-
+ - Gamer 🕹<br>
+ - Dos gatos  🐈‍⬛<br><br> 
+ 
 Visit me on:<br>
 <a href="http://www.linkedin.com/in/Lewis-Matt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <br>
