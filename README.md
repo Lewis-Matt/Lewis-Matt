@@ -3,7 +3,9 @@
 <h1>Hello, I'm Matt.</h1>
 <h3>“Imagination will often carry us to worlds that never were, but without it we go nowhere.”</h3>- Carl Sagan
  <hr>
-I am a PMP certified Project Manager and Special Operations Veteran who recently transitioned into software development. The <strong>internet connects the world</strong>, and I want to develop/maintain the logic that keeps the backbone of any web-based service running. I am a tech enthusiast, and very interested in software that integrates hardware with the internet, specifically pertaining to the IoT 💡, GIS 🗾, mobile 📱, and anything that flies 🚀! <hr>
+I am a PMP certified Project Manager and Special Operations Veteran who recently transitioned into software development. The <em>internet connects the world</em>, and I am drawn to developing and maintaining the logic that is the backbone of web-based programs. 
+<br><br>
+As a tech enthusiast, I am very interested in software that integrates hardware with the internet, specifically pertaining to the IoT 💡, GIS 🗾, and Mobile 📱. I also am a hobbyist game-dev (C# + Unity) and interested in all tech-related aviation projects (drones, paramotors, skydiving, navigation)! <hr>
 <h3>About Me:</h3>
  - Former Navy EOD  💣 <br>
  - Traveler  ✈️ <br>
