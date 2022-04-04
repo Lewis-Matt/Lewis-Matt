@@ -6,7 +6,7 @@
 I am a PMP certified Project Manager and Special Operations Veteran who recently transitioned into software development.
 As a tech enthusiast, I am very interested in software that integrates hardware with the internet, specifically pertaining to the IoT 💡, GIS 🗾, and Mobile 📱. 
 <br><br>
-I also have the ambition of a hobbyist when it comes to Game-Dev (Unity, Blender, C#), aviation-related projects (drones, paramotors, navigation software), and creating with 3D printing and CNC.  When I am not making things with software or wires, I can be found in the garage making things out of wood or leather.
+I am also a hobbyist when it comes to Game-Dev (Unity, Blender, C#), aviation-related projects (drones, paramotors, navigation software), and creating with 3D printing and CNC.  When I am not making things with software or wires, I can be found in the garage making things out of wood or leather.
 <h3>About Me:</h3>
  - Former Navy EOD  💣 <br>
  - Traveler  ✈️ <br>
