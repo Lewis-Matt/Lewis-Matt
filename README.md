@@ -3,7 +3,7 @@
 <h1>Hello, I'm Matt.</h1>
 <h3>“Imagination will often carry us to worlds that never were, but without it we go nowhere.”</h3>- Carl Sagan
  <hr>
-A tech enthusiast interested in developing software that integrates hardware with the internet, specifically pertaining to the IoT 💡, GIS 🗾, and Mobile 📱. I am also a hobbyist that dabbles in Game-Dev (Unity, Blender, C#), aviation-related projects (drones, paramotors, navigation software), and creating with 3D printing and CNC. When I am not making things with software or wires, I can be found in the garage making things out of wood or leather.
+A tech enthusiast interested in software that integrates hardware with the internet, specifically pertaining to the IoT 💡, GIS 🗾, and Mobile 📱. When I am not making things with software or wires, I can be found in the garage making things out of wood or leather.
 <h3>About Me:</h3>
  - Former Navy EOD  💣 <br>
  - Traveler  ✈️ <br>
@@ -19,13 +19,8 @@ Visit me on:<br>
 or reach out via <a href="mailto:matthew.d.lewis64@gmail.com">email</a>
 <br>
 <hr>
- 
-<h3>🚀 Certificates 🚀</h3>
- 
+  
 <a href="https://www.pmi.org/certifications/project-management-pmp"><img height="100em" src="https://user-images.githubusercontent.com/29003130/135118588-8ee4ad5d-2419-4324-8bcc-85fe1ac2653d.png"/></a> <br>
-[300hr Web-Dev Certification](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
-[300hr Javascript Certification - WIP](https://www.freecodecamp.org/certification/misterlewis/responsive-web-design) <br>
-<br>
  
 <hr>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewis-Matt&layout=compact&theme=github_dark&langs_count=9" />
