@@ -15,9 +15,7 @@ A tech enthusiast interested in software that integrates hardware with the inter
  
 Visit me on:<br>
 <a href="http://www.linkedin.com/in/Lewis-Matt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <br>
-or reach out via <a href="mailto:matthew.d.lewis64@gmail.com">email</a>
-<br>
+
 <hr>
   
 <a href="https://www.pmi.org/certifications/project-management-pmp"><img height="100em" src="https://user-images.githubusercontent.com/29003130/135118588-8ee4ad5d-2419-4324-8bcc-85fe1ac2653d.png"/></a> <br>
